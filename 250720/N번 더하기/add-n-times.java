@@ -7,7 +7,7 @@ public class Main {
         int b = sc.nextInt(); 
         if (a >=1 && b <=10 ){
             int temp = a;
-        for (int i = 0; i <= a ; i++ ){
+        for (int i = 0; i < b ; i++ ){
             temp = temp+b;
             System.out.println(temp);
             }   
