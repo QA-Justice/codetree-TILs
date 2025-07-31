@@ -7,7 +7,7 @@ public class Main {
         int b = sc.nextInt();
 
         if ( a == 0 ) {
-            if ( b >= 20 ) {
+            if ( b >= 19 ) {
                 System.out.println("MAN");
             }
             else {
@@ -15,7 +15,7 @@ public class Main {
             }
         }
         else {
-            if( b >=20 ){
+            if( b >=19 ){
                 System.out.println("WOMAN");
             }
             else {
